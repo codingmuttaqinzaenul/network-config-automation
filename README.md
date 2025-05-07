@@ -6,8 +6,8 @@ This is a Python script for automating switch configurations.
      - For **Windows**: `python -m venv venv-conf-auto`
      - For **Linux/Mac**: `python3 -m venv venv-conf-auto`
 2. Activate the virtual environment:
-    For **Windows**: `venv-conf-auto\Scripts\activate.bat`
-    For **Linux/Mac**: `source venv-conf-auto/bin/activate`
+    - For **Windows**: `venv-conf-auto\Scripts\activate.bat`
+    - For **Linux/Mac**: `source venv-conf-auto/bin/activate`
 3. Install the required Python packages listed in the `requirements.txt` file:
     `pip install -r requirements.txt`
 4. Open a text editor (e.g., VS Code) and open the project folder.
