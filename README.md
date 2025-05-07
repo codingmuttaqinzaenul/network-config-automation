@@ -10,5 +10,5 @@ This is a Python script for automating switch configurations.
     For **Linux/Mac**: `source venv-conf-auto/bin/activate`
 3. Install the required Python packages listed in the `requirements.txt` file:
     `pip install -r requirements.txt`
-4. Open a text editor (e.g., VS Code) and open the project folder.**
+4. Open a text editor (e.g., VS Code) and open the project folder.
 5. Execute the Python script or Jupyter Notebook to configure the switches. Make sure to provide the switch_config_map file when running the script.
